@@ -10,6 +10,12 @@
 
 ### Joyce Yang
 
+1. Gagnon, P., Margolis, R., Melius, J., Phillips, C., & Elmore, R. (2018). Estimating rooftop solar technical potential across the US using a combination of GIS-based methods, lidar data, and statistical modeling. Environmental Research Letters, 13(2), 024027.
+
+2.  Margolis, R., Gagnon, P., Melius, J., Phillips, C., & Elmore, R. (2017).     Using GIS-based methods and lidar data to estimate rooftop solar technical potential in US cities. Environmental Research Letters, 12(7), 074013. 
+
+3. Gagnon, P., Margolis, R., Melius, J., Phillips, C., & Elmore, R. (2016). Rooftop solar photovoltaic technical potential in the United States. A detailed assessment (No. NREL/TP-6A20-65298). National Renewable Energy Lab.(NREL), Golden, CO (United States).
+
 ### Thai Pham
 
 ## Wind Energy - aka Best Team
