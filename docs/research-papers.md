@@ -8,7 +8,7 @@
 
 ## Solar Energy
 
-### Joyce Chang
+### Joyce Yang
 
 ### Thai Pham
 
