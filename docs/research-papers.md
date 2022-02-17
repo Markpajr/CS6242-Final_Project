@@ -29,7 +29,23 @@ Talks about calculating the potential for wind energy in China. And the data sou
 
 Talks about NREL's efforts to do wind energy potential analysis. Everything talks about using models and GIS data, but I haven't found the models or the underlying data yet.
 
-[References Poster below](https://www.sciencedirect.com/science/article/pii/S0301421510008396#bib9)
+[C. McKeown, A. Adelaja, B. Calnin
+On developing a prospecting tool for wind industry and policy decision support
+Energ Policy, 39 (2) (2011), pp. 905-915](https://www.sciencedirect.com/science/article/pii/S0301421510008396#bib9)
+
+Provides useful list and framework for availability potential for wind energy.
+
+|Data | Proxy for | Possible index score |
+|---|---|---|
+|Wind speed score | Wind density for power generation | 350 |
+|Agricultural land contiguity and area | The number of towers that can be strung together in a reasonably compact setting | 180 |
+|Forest land contiguity and area | The number of towers that can be strung together in a reasonably compact setting | 130 |
+|Per acre value of agricultural land | Land Costs | 130 |
+|Population density: 2000 | Possible local resistance to wind farm installation | 130 |
+|Population density change: 1990–2000 | Pressure for residential and other types of development | 80 |
+|Total possible | | 1000 |
+
+Also references this poster
 
 [Poster for Wind Energy Potential](https://www.nrel.gov/docs/fy10osti/48036.pdf)
 
