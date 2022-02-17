@@ -23,7 +23,7 @@ Talks about calculating the method for the wind energy potential in Spain.
 
 [Where, when and how much wind is available? A provincial-scale wind resource assessment for China](https://www.sciencedirect.com/science/article/pii/S0301421514004078)
 
-Talks about calculating the potential for wind energy in China. And the data sources they used and how they calculated it. Talks about land usage and various GIS data.
+Provides a formula for coming up with Wind Energy potential by using wind speed, slope factor and bathymetry(???).
 
 [Schwartz, M, George, R, and Elliott, D. The Use of Reanalysis Data for Wind Resource Assessment at the National Renewable Energy Laboratory. United States: N. p., 1999. Web.](https://www.osti.gov/servlets/purl/7074)
 
