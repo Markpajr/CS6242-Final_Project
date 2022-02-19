@@ -66,3 +66,4 @@ Also references this poster
 ### Ryan Maas
 
 [Land use and turbine technology influences on potential in the United States](https://www.sciencedirect.com/science/article/abs/pii/S0360544221002930)
+[Notion Notes](https://ryanhmaas.notion.site/GA-Tech-CS6242-Paper-Notes-4d471dde115349909334f390bd5007c9)
