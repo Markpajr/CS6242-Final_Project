@@ -64,3 +64,5 @@ Also references this poster
 [Poster for Wind Energy Potential](https://www.nrel.gov/docs/fy10osti/48036.pdf)
 
 ### Ryan Maas
+
+[Land use and turbine technology influences on potential in the United States](https://www.sciencedirect.com/science/article/abs/pii/S0360544221002930)
