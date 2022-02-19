@@ -1,5 +1,11 @@
 # Research Papers
 
+## Data Sources
+1. Freeman, J. M., DiOrio, N. A., Blair, N. J., Neises, T. W., Wagner, M. J., Gilman, P., & Janzou, S. (2018). System Advisor Model (SAM) general description (version 2017.9. 5) (No. NREL/TP-6A20-70414). National Renewable Energy Lab.(NREL), Golden, CO (United States).
+
+The System Advisor Model (SAM) from the National Renewable Energy Lab provides data on renewable energy sources such as geothermal, wind, and solar power. It has an API that is compatible with Python at https://sam.nrel.gov/software-development-kit-sdk/pysam.html . 
+
+
 ## Geothermal Energy
 
 ### Mark Patrick
@@ -15,6 +21,8 @@
 2.  Margolis, R., Gagnon, P., Melius, J., Phillips, C., & Elmore, R. (2017).     Using GIS-based methods and lidar data to estimate rooftop solar technical potential in US cities. Environmental Research Letters, 12(7), 074013. 
 
 3. Gagnon, P., Margolis, R., Melius, J., Phillips, C., & Elmore, R. (2016). Rooftop solar photovoltaic technical potential in the United States. A detailed assessment (No. NREL/TP-6A20-65298). National Renewable Energy Lab.(NREL), Golden, CO (United States).
+
+These articles address rooftop photovoltaic potential in the US based on a combination of solar exposure, forest cover, and other factors. Notably, they do not consider non-rooftop photovoltaic potential. 
 
 ### Thai Pham
 
