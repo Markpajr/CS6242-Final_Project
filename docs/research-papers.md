@@ -65,8 +65,12 @@ Also references this poster
 
 ### Ryan Maas
 
+[Notion Notes](https://ryanhmaas.notion.site/GA-Tech-CS6242-Paper-Notes-4d471dde115349909334f390bd5007c9)
+
 [Land use and turbine technology influences on potential in the United States](https://www.sciencedirect.com/science/article/abs/pii/S0360544221002930)
 
 This paper discusses siting restrictions and turbine development and how both affect wind capacity in various regions in the US.
 
-[Notion Notes](https://ryanhmaas.notion.site/GA-Tech-CS6242-Paper-Notes-4d471dde115349909334f390bd5007c9)
+[Expert Elicitation Survey on Future Wind Energy Costs. Article No. 16135 NREL/JA-6A20-66669](https://www.nature.com/articles/nenergy2016135)
+
+Brief writeup of a survey aimed at industry experts (largest of its kind, at least related to wind specifically) aiming to gather sentiment related to future energy costs.
