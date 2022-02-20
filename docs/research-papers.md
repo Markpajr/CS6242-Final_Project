@@ -5,6 +5,8 @@
 ### Mark Patrick
 
 ### Akash Sharma
+1. Chrystel Dezayes, Vincent Famin, Bruno Tourlière, Jean-Michel Baltassat, Bhavani Bénard, Potential areas of interest for the development of geothermal energy in La Réunion Island based on GIS analysis, Journal of Volcanology and Geothermal Research, Volume 421, 2022, 107450, ISSN 0377-0273, https://doi.org/10.1016/j.jvolgeores.2021.107450.
+
 
 ## Solar Energy
 
