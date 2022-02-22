@@ -10,6 +10,16 @@ The System Advisor Model (SAM) from the National Renewable Energy Lab provides d
 
 ### Mark Patrick
 
+   1. Deep Direct-Use Geothermal Feasibility Study for Hawthorne, NV
+        -- https://www.osti.gov/biblio/1606296
+        -- Indepth research paper on feasibility in a specific area, including return on investment calculations on page 65, information on regulations, permits, demand, and output analysis.
+   2. Evaluating the feasibility of geothermal deep direct-use in the United States
+        --https://www.sciencedirect.com/science/article/pii/S0196890421005112?via%3Dihub
+        -- Geothermal Feasibility study done across the entire US, modeling costs based on different scenarios and some comparisons to other energy sources.
+   3. 2021 U.S. Geothermal Power Production and District Heating Market Report
+        -- https://nrel-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=NREL_ALMA5146004430003216&context=L&vid=Pubs&lang=en_US&search_scope=PUBS&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,geothermal&sortby=date&offset=0
+        -- Has a few nice sections discussing the amount of geothermal energy output from 2015-2019, with breakdowns by state and long term growth opportunities
+
 ### Akash Sharma
 
 ## Solar Energy
