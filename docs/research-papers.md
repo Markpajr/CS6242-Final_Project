@@ -35,6 +35,19 @@ The System Advisor Model (SAM) from the National Renewable Energy Lab provides d
 These articles address rooftop photovoltaic potential in the US based on a combination of solar exposure, forest cover, and other factors. Notably, they do not consider non-rooftop photovoltaic potential. 
 
 ### Thai Pham
+1. [Cornelia A., Fjelkestam Frederiksen, Zuansi Cai (2021).Novel machine learning approach for solar photovoltaic energy output forecast using extra-terrestrial solar irradiance](https://www.sciencedirect.com/science/article/abs/pii/S0306261921014276): This paper discusses a neural network approach to predict one-week-ahead half-hourly photovoltaic power output using climate data with examples in U.K. 
+
+2. [Sobrina Sobri, Sam Koohi-kamali, Nasrudin Abd. Rahim (2018).Solar photovoltaic generation forecasting methods: A review](https://www.sciencedirect.com/science/article/abs/pii/S0196890417310622): A survey of PV forecasting techniques. From the summary, it seems they review time series analysis, ensemble methods, and classification techniques to forecast output. There is also review of metrics assessment of prediction performance.
+
+3. [Justin Brewer, Daniel P.AMes, David Solan, Randy Lee, Juliet Carlisle (2015). Using GIS analytics and social preference data to evaluate utility-scale solar power site suitability](https://www.sciencedirect.com/science/article/abs/pii/S0960148115002979): This paper discusses a GIS-based approach by interlaying map with details of potential irradiance + a layer for roads/power lines to produce a map showing solar energy potential with scale across southwestern US.
+
+
+##### Misc
+1. [Top 5 sources for solar data](https://www.nrel.gov/state-local-tribal/blog/posts/top-five-sources-for-solar-data-available-at-eia.html): This one is only for short write-ups plus quick visualisations ref. That being said, there's EIA's State Energy Data System where you can state-specific maps, rankings, or location of geothermal/hydro/solar/wind plants which i think can interlay? The webpage also has a source for annual and monthly electricity installed capacity per state.
+
+2. [Solar maps](https://www.nrel.gov/gis/solar-resource-maps.html) and [US National Solar Radiation Database](https://nsrdb.nrel.gov/about/u-s-data.html): The former is gallery of maps and latter is where the data come from. They have dictionary of what columns are present, e.g. dew point, snow depth, temperature, etc.
+
+3. [SAM technical reference](https://www.nrel.gov/docs/fy18osti/67399.pdf)
 
 ## Wind Energy - aka Best Team
 
