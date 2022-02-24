@@ -97,3 +97,7 @@ This paper discusses siting restrictions and turbine development and how both af
 [Expert Elicitation Survey on Future Wind Energy Costs. Article No. 16135 NREL/JA-6A20-66669](https://www.nature.com/articles/nenergy2016135)
 
 Brief writeup of a survey aimed at industry experts (largest of its kind, at least related to wind specifically) aiming to gather sentiment related to future energy costs.
+
+[U.S. Renewable Energy Technical Potentials: A GIS-Based Analysis](https://www.nrel.gov/docs/fy12osti/51946.pdf)
+
+Technical summary of renewable potentials in the US.
