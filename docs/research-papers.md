@@ -26,7 +26,7 @@ https://dl.acm.org/doi/pdf/10.1145/2926720
 ### Akash Sharma
 
 ### Joyce Yang
-1. The Million Song Dataset (https://academiccommons.columbia.edu/doi/10.7916/D8NZ8J07)
+1. The Million Song Dataset (https://academiccommons.columbia.edu/doi/10.7916/D8NZ8J07) . For Hellmeier 1. Our data will be the Million Song Dataset, which is one of the largest datasets within the music informatics field and contains features such as energy, danceability, and loudness.  We will use this paper to provide metadata for the songs in our dataset-- while the scope of the paper is limited and does not contain features such as genre, we will use other sources to obtain these missing features.
 2. Investigating Gender Fairness of Recommendation Algorithms in the Music Domain (https://doi.org/10.1016/j.ipm.2021.102666)
 3. Rating:How Difficult is It? (https://dl.acm.org/doi/10.1145/2043932.2043961)
 
