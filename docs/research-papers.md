@@ -4,6 +4,24 @@
 
 
 ### Mark Patrick
+1. User Insights on Diversity in Music Recommendation lists
+https://program.ismir2020.net/static/final_papers/311.pdf  
+	- a. In music recommendation systems, diversity relates to the dissimilarity of recommended items. How users feel about diversity can be situationally dependent, changing based on mood or location. Diversity within a recommender system prevents over personalization, and can be measured via user surveys in addition to algorithmic measures. User surveys allow direct input into how diverse a listener feels the playlist is, which is important in the context of generating recommendations that users find interesting.  
+	- b. This paper will be useful for our project as we approach how to determine whether our users are satisfied with the recommended playlists, as well as bringing up the discussion around diversity in the music selection and how we want to incorporate that into our system.
+  - c. While this paper focuses specifically on individual users and personalized recommendations, we believe the methodology and ideas can be expanded and applied to a setting such as our project to build recommended playlists for public spaces to minimize conflict in song recommendations.  
+	
+2. Diversity, Serendipity, Novelty, and Coverage: A Survey and Empirical Analysis of Beyond-Accuracy Objectives in Recommender Systems
+https://dl.acm.org/doi/pdf/10.1145/2926720
+	- a. Traditional recommender systems have focused on primarily accurate predictions, minimizing the importance of other factors diversity, serendipity, novelty, and coverage. Serendipity is defined as “Finding valuable or pleasant things that are not looked for”, while novelty is a new item previously unknown to the listener. Additionally, coverage represents how well the recommended items cover the catalog of available items.
+	- b. This paper will be useful for our project as we approach the issue of how to measure the performance of our recommendation system.
+	- c. This paper focuses primarily on measurement of recommender systems, and serves as a jumping point for further research into metrics outside of accuracy.
+
+
+3. The Information Retrieval Series Music Similarity and Retrieval (Textbook in Slack)
+	- a. This is a comprehensive textbook on music recommendation systems. Specifically, the chapter we’re focusing on is chapter 8: Collaborative Music Similarity and Recommendation. Chapter 8 gives us a deep dive into using graph based models to approach music recommendations, scoring based on music similarity.
+	- b. This reference will be very useful in our project as we determine the best approach to modeling most dissimilar music from the provided playlist, as we are looking for music that is not anything like the suggested songs.
+	- c. This text focuses primarily on analysis the musics lyrics, artists genre & connecting artists, and social relations, while our dataset has additional music metadata we can utilize more related to how the song sounds, beats, rhythm, etc.
+
 
 ### Akash Sharma
 
