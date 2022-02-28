@@ -46,6 +46,19 @@ https://dl.acm.org/doi/pdf/10.1145/2926720
 
 ### Bo Anderson
 
+1. [Amazon.com recommendations: item-to-item collaborative filtering](https://ieeexplore.ieee.org/document/1167344)
+    - This paper summarizes the advantages of the recommedantion model that Amazon.com pioneered over other recommedation models. It provides a brief survey of some of the other types of recommendations models currently used and some of the downsides to them. One of the significant improvements of their model over others was reductions in computatonal complexity that needed to be done at search time. This reduction allowed them to serve real-time recommendations.
+    - This paper gives a framework and insights into how to evaluate different forms of recommendation models and some of the factors that are important when deciding on one. It also provides the example of the algorithm that Amazon started using in 2003. Which Amazon gained large market share in part to their personalized recommendations. There were an innovator in the space.
+    - This paper is not directly applicable to music recommendations, however there similarities between all forms of recommendation engines and considerations in area can still be considerations in others. The other shortcoming of this paper is it's almost 20 years old so the models that it's comparing to are limited to exclude more recent ones. We can take this analytical framework though and apply it when comparing and considering newer and more recently developed models.
+1. [A review of factors affecting music recommender success](https://researchrepository.rmit.edu.au/esploro/outputs/conferenceProceeding/A-review-of-factors-affecting-music/9921858035101341)
+    - This paper summarizes the types of factors that influence music recommendation systems and their success. For example part of the paper talks about demographic and psychological factors and how those influence music tastes and preferences. Then the paper goes on to talk about the technical methods for implementing music recommendation systems and how they would take these various factors into account.
+    - We can consider some of various factors related to users and consider them as we evaluate and choose recommendation systems.
+    - This paper is a survey of music recommendation systems from almost 20 years ago. There are a lot of modern music recommendation systems that have been developed that this paper doesn't consider. However the topic of pscyholgical factors that influence recommendation systems is still relevant and can be applied when considering these newer models.
+1. [A Survey of Music Recommendation Systems and Future Perspectives](http://www.music-ir.org/mirex/wiki/MIREX)
+    - This paper goes through and surveys the various forms of Music recommenders and compares them and also mentions the commonalities. All models at some level have User Profiling, Item Profiling and a Query Type and those can vary between the different models and their goals.
+    - As we develop our model we'll need to consider how we're going to apply User Profiling, Item Profiling and what our Query Type is going to be. Also we can use the various methods mentioned to guide us towards the best method to use.
+    - This paper is just a survey and makes no claims on the best model to use and only talks about future approaches but doesn't actually
+
 ### Ryan Maas
 
 [Notion Notes](https://ryanhmaas.notion.site/GA-Tech-CS6242-Paper-Notes-4d471dde115349909334f390bd5007c9)
