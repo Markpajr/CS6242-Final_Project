@@ -26,6 +26,9 @@ https://dl.acm.org/doi/pdf/10.1145/2926720
 ### Akash Sharma
 
 ### Joyce Yang
+1. The Million Song Dataset (https://academiccommons.columbia.edu/doi/10.7916/D8NZ8J07)
+2. Investigating Gender Fairness of Recommendation Algorithms in the Music Domain (https://doi.org/10.1016/j.ipm.2021.102666)
+3. Rating:How Difficult is It? (https://dl.acm.org/doi/10.1145/2043932.2043961)
 
 ### Thai Pham
 1. [Kaminskas M., Ricci F., Schedl M. . Location-aware music recommendation using auto-tagging and hybrid matching](https://dl.acm.org/doi/pdf/10.1145/2507157.2507180): This paper discusses usage of knowledge embedding technique to retrieve data from the [DBPedia.org database](https://dbpedia.org/page/Knowledge_base) to link two different types of entities, i.e. songs vs locations. The paper presented a combined score to get similarity scores of a song and a location. The three main features include We can follow this paper to map out what features we needed to get location-based not-recommendations.
