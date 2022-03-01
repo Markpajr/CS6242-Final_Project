@@ -54,20 +54,20 @@ https://dl.acm.org/doi/pdf/10.1145/2926720
 1. Algorithmic Effects on the Diversity of Consumption on Spotify
 	- a. The main crux of this paper is to illuminate the central tension in music recommendation systems: recommending content that is likely to get users' attention in the short-term while remaining diverse in the long-term. This paper does this by quantifying the musical diversity of a user into a measure called the Generalist-Specialist score. Once that score is calculated, the authors stipulate that things like user-driven and algorithmically-driven diversity become easier to analyze and can lead to deductions into things like churn rate and user subscription tier choices. 
 	- b. This paper will be useful for our project because it presents useful context to keep in mind while developing a recommendation algorithm. Maintaining the line between novelty and comfort can lead to more platform adoption.
-  - c. Possible potential shortcomings in this paper are that the data analyzed is limited to Spotify premium members only, thereby creating a possible bias in the data itself. Since we don't intend to consume the dataset as the authors, we will not have a membership tier classifier present in our data or analysis.
+ 	- c. Possible potential shortcomings in this paper are that the data analyzed is limited to Spotify premium members only, thereby creating a possible bias in the data itself. Since we don't intend to consume the dataset as the authors, we will not have a membership tier classifier present in our data or analysis.
+ 	- Addresses Heilmeier #2 directly, and possibly touches upon #5.
 
 2. Deep Learning in Music Recommendation Systems
-	- a. This review article explains particularities of the music domain in recommendation system research. It gives an overview of the state of the art systems that employ deep learning for music recommendation purposes, and this overview touches upon content-based and hybrid approaches, as well as sequence-aware approaches.
-	
+	- a. This review article explains particularities of the music domain in recommendation system research. It gives an overview of the state of the art systems that employ deep learning for music recommendation purposes, and this overview touches upon content-based and hybrid approaches, as well as sequence-aware approaches.	
 	- b. This paper will be somewhat useful for our project because it presents current approaches in the deep learning realm, which is somewhat out of the wheelhouse of most of the authors. It also denotes current challenges in the deep learning domain, which is something to be privy to should we proceed down that path.
-	
-  -  c. Potential shortcomings in this paper are that it limits analysis of approaches in the deep learning domain to a specific niche (music systems), whereas a more generalized approach may be more fruitful for a higher level approach. We do not intend to conduct our own analysis of approaches in the deep learning
+  	- c. Potential shortcomings in this paper are that it limits analysis of approaches in the deep learning domain to a specific niche (music systems), whereas a more generalized approach may be more fruitful for a higher level approach. We do not intend to conduct our own analysis of approaches in the deep learning
+  	-  Addresses Heilmeier #2 directly, more or less.
 
 3. Song-Level Features and Support Vector Machines for Music Classification
 	- a. This paper goes into depth about training classification models and how they relate to classifying songs. In particular, this paper touches upon support vector machines and how they perform in an experiment that measures classification accuracy, especially in comparison to other model types (such as a k-nearest neighbor model).
-	- b. This paper will be a good resource for our project as classification is a possible problem we'll have to solve, and the ability to deduce insights from a smaller dataset and apply them to a larger one (such as ours) could be a good timesaver. More specifically, since our approach intends to create a system that is exclusion-centric, relying on resources that include ways to classify similar data is likely to be prudent.
-	
-  - c. A few shortcomings in this paper are the size of the dataset sampled (it is only 1200 pop songs) and the types of songs sampled (they are all pop songs). Our dataset will have a much larger dataset and it will have larger array of genres included, so these should be addressed easily.
+	- b. This paper will be a good resource for our project as classification is a possible problem we'll have to solve, and the ability to deduce insights from a smaller dataset and apply them to a larger one (such as ours) could be a good timesaver. More specifically, since our approach intends to create a system that is exclusion-centric, relying on resources that include ways to classify similar data is likely to be prudent.	
+  	- c. A few shortcomings in this paper are the size of the dataset sampled (it is only 1200 pop songs) and the types of songs sampled (they are all pop songs). Our dataset will have a much larger dataset and it will have larger array of genres included, so these should be addressed easily.  	
+  	- Addresses Heilmeier #2 (how it's done today) tangentially. Possibly addresses Heilmeier #5 (measuring impact/difference). 
 
 
 
