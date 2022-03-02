@@ -33,13 +33,14 @@ https://doi.org/10.1145/3459637.3481893
 
 
 2. Analysis of Network Clustering Algorithms and Cluster Quality Metrics at Scale
-doi:10.1371/journal.pone.0159161
+ https://doi.org/10.1371/journal.pone.0159161
+
 	- a. Clustering networks into communities is a fundamental method of analyzing network structures. However, these isnt consensus on the best quality metrics (stand alone or information recovery) that can be used to quantify performance of a network clustering algorithm. This paper presents a regorous analysis across 6 quality metrics comparing four major network clustering algorithms.   
 	- b. This paper will be useful for our project as it helps us both in the potential creating of new KPIs if needed as well as identifying metrtics that would be best suited to measure our approach's performance and accuracy.  
     - c. While the paper provides a rigorous approach, the authors are unable to firmly say which metrics out performs the others. The high dependence on mixing parameter makes this is challenging task. However, some metrics do appear to rise to the top and can be used as a culled list of metrics for us to test.  
 
 
-2. A survey of music similarity and recommendation from music context data
+3. A survey of music similarity and recommendation from music context data
 https://doi.org/10.1145/2542205.2542206
 	- a. This paper reviews the methods used for music similarity estimation via content-based and context-based appraches. Discussing the pre-requisited, key features, advantages and shortcomings of each.    
 	- b. This paper will be useful for our project as it helps us identify which methodologies to use for our approach, based on the available information and expected pros and cons for each of these methods. 
