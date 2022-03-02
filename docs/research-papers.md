@@ -32,6 +32,14 @@ https://doi.org/10.1145/3459637.3481893
     - c. One of he key limitations in this papaer is its applicability exists only within a large dataset of ratings and user profiles, which may lead to "cold-start" issues if we use a different dataset. However, the metrics developed in this paper could still be beneficial in quantifying results in teting phase. 
 
 
+2. Analysis of Network Clustering Algorithms and Cluster Quality Metrics at Scale
+doi:10.1371/journal.pone.0159161
+	- a. Clustering networks into communities is a fundamental method of analyzing network structures. However, these isnt consensus on the best quality metrics (stand alone or information recovery) that can be used to quantify performance of a network clustering algorithm. This paper presents a regorous analysis across 6 quality metrics comparing four major network clustering algorithms.   
+	- b. This paper will be useful for our project as it helps us both in the potential creating of new KPIs if needed as well as identifying metrtics that would be best suited to measure our approach's performance and accuracy.  
+    - c. While the paper provides a rigorous approach, the authors are unable to firmly say which metrics out performs the others. The high dependence on mixing parameter makes this is challenging task. However, some metrics do appear to rise to the top and can be used as a culled list of metrics for us to test.  
+
+
+
 ### Joyce Yang
 1. The Million Song Dataset (https://academiccommons.columbia.edu/doi/10.7916/D8NZ8J07) . For Hellmeier 1. Our data will be the Million Song Dataset, which is one of the largest datasets within the music informatics field and contains features such as energy, danceability, and loudness.  We will use this paper to interpret metadata for the songs in our dataset-- while the scope of the paper is limited and does not contain features such as genre, we will use other sources to obtain these missing features.
 
