@@ -25,6 +25,13 @@ https://dl.acm.org/doi/pdf/10.1145/2926720
 
 ### Akash Sharma
 
+1. Algorithmic Balancing of Familiarity, Similarity, & Discovery in Music Recommendations
+https://doi.org/10.1145/3459637.3481893 
+	- a. Playlists form the backbone of information modeling in Music Recommendation Systems. These create a tendency for users to get recommended songs by very "similar" artists making recommendations stale. This paper focuses on incorporating familiarity, similarity and Discovery as KPIs for creating better curated recommendations.   
+	- b. This paper will be useful for our project as it helps us createa a better model then one just based on similarity scores and would lead to better recommendations. 
+    - c. One of he key limitations in this papaer is its applicability exists only within a large dataset of ratings and user profiles, which may lead to "cold-start" issues if we use a different dataset. However, the metrics developed in this paper could still be beneficial in quantifying results in teting phase. 
+
+
 ### Joyce Yang
 1. The Million Song Dataset (https://academiccommons.columbia.edu/doi/10.7916/D8NZ8J07) . For Hellmeier 1. Our data will be the Million Song Dataset, which is one of the largest datasets within the music informatics field and contains features such as energy, danceability, and loudness.  We will use this paper to interpret metadata for the songs in our dataset-- while the scope of the paper is limited and does not contain features such as genre, we will use other sources to obtain these missing features.
 
