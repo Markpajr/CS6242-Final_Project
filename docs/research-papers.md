@@ -39,6 +39,13 @@ doi:10.1371/journal.pone.0159161
     - c. While the paper provides a rigorous approach, the authors are unable to firmly say which metrics out performs the others. The high dependence on mixing parameter makes this is challenging task. However, some metrics do appear to rise to the top and can be used as a culled list of metrics for us to test.  
 
 
+2. A survey of music similarity and recommendation from music context data
+https://doi.org/10.1145/2542205.2542206
+	- a. This paper reviews the methods used for music similarity estimation via content-based and context-based appraches. Discussing the pre-requisited, key features, advantages and shortcomings of each.    
+	- b. This paper will be useful for our project as it helps us identify which methodologies to use for our approach, based on the available information and expected pros and cons for each of these methods. 
+    - c. Being a survey/review paper, this work does not present recommendations or make any claim on the best model to use.
+
+
 
 ### Joyce Yang
 1. The Million Song Dataset (https://academiccommons.columbia.edu/doi/10.7916/D8NZ8J07) . For Hellmeier 1. Our data will be the Million Song Dataset, which is one of the largest datasets within the music informatics field and contains features such as energy, danceability, and loudness.  We will use this paper to interpret metadata for the songs in our dataset-- while the scope of the paper is limited and does not contain features such as genre, we will use other sources to obtain these missing features.
