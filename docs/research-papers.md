@@ -32,7 +32,7 @@ Text for paper: Using features of songs from the Million Song Dataset as well as
 
 2. Investigating Gender Fairness of Recommendation Algorithms in the Music Domain (https://doi.org/10.1016/j.ipm.2021.102666) . For Hellmeier 6. 
 
-Text for paper: One risk of recommender systems is differing performance among demographics--one way to mitigate this risk is to weight responses from different subjects to ensure that each group is equally represented, as described in Melchiorre et al-- as previous work focuses on gender as the primary demographic category, we will try to apply the method of re-weighting to other categories such as age and location. 
+Text for paper: One risk of recommender systems is differing performance among demographics--one way to mitigate this risk is to weight responses from different subjects to ensure that each group is equally represented, as described in Melchiorre et al-- while this work focuses on gender as the primary demographic category, we will try to apply the method of re-weighting to other categories such as age and location. 
 
 5. Rating:How Difficult is It? (https://dl.acm.org/doi/10.1145/2043932.2043961) . For Hellmeier 5. There are strengths and shortcomings to different rating methods such as a sliding scale, a thumbs up button, and a five-star scale--this paper suggests that users prefer rating systems that are granular but not too complex. While this paper focuses on a single metric, we may explore rating across several metrics and creating a composite rating.
 
