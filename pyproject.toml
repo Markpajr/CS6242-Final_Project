@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "cs6242-project"
+version = "0.1.0"
+description = ""
+authors = ["Mark Patrick <M.Patrick@Outlook.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pandas = "^1.4.1"
+boto3 = "1.20.24"
+s3fs = "2022.2.0"
+h5py = "^3.6.0"
+tables = "^3.7.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
